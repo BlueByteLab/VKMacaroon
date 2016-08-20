@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project author="кокина" authorOS="Windows 10" createdAt="1453856368846" ideName="DevelNext" ideVersion="2016 beta-4" ideVersionHash="2016070212" name="VKMacaroon" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1471709096841">
+  <openedFiles>
+  <file src="~project"/>
+    <file src="src/.scripts/AppModule"/>
+    <file src="src/.scripts/MainModule"/>
+    <file src="src/.forms/MainForm.fxml"/>
+    <file selected="1" src="src/.forms/main.fxml"/>
+    <file src="src/.forms/settings.fxml"/>
+  </openedFiles>
+  <files>
+  <file inRootDir="1" src="src/app/prototypes"/>
+    <file inRootDir="1" src="src/.scripts"/>
+    <file inRootDir="1" src="src/.scripts/AppModule">
+      <links>
+        <link src="src/app/modules/AppModule.php"/>
+      </links>
+    </file>
+    <file inRootDir="1" src="src/app/modules/AppModule.php"/>
+    <file inRootDir="1" src="src/.scripts/MainModule">
+      <links>
+        <link src="src/app/modules/MainModule.php"/>
+      </links>
+    </file>
+    <file inRootDir="1" src="src/app/modules/MainModule.php"/>
+    <file inRootDir="1" src="src/.forms/MainForm.fxml">
+      <links>
+        <link src="src/app/forms/MainForm.php"/>
+        <link src="src/.forms/MainForm.conf"/>
+      </links>
+    </file>
+    <file inRootDir="1" src="src/app/forms/MainForm.php"/>
+    <file inRootDir="1" src="src/.forms/MainForm.conf"/>
+    <file inRootDir="1" src="src/app/forms"/>
+    <file inRootDir="1" src="src/.system/modules.json"/>
+    <file inRootDir="1" src="src/.forms"/>
+    <file inRootDir="1" src="src/.factories"/>
+    <file generated="1" inRootDir="1" src="src/JPHP-INF/.bootstrap.php"/>
+    <file generated="1" inRootDir="1" src="src/.system/application.conf"/>
+    <file inRootDir="1" src="src/.game/sprites"/>
+    <file inRootDir="1" src="src/.theme/style.css"/>
+    <file inRootDir="1" src=""/>
+    <file inRootDir="1" src="~project"/>
+    <file inRootDir="1" src="src/.data"/>
+    <file inRootDir="1" src="src/.data/img"/>
+    <file inRootDir="1" src="src"/>
+    <file inRootDir="1" src="src/C:/Users/кокина/Desktop/design24.png"/>
+    <file inRootDir="1" src="src/.data/img/design24.png"/>
+    <file inRootDir="1" src="src/C:/Users/кокина/Desktop/blackout16.png"/>
+    <file inRootDir="1" src="src/.data/img/blackout16.png"/>
+    <file inRootDir="1" src="build"/>
+    <file inRootDir="1" src="application.pid"/>
+    <file inRootDir="1" src="lib"/>
+    <file inRootDir="1" src="src/.debug/bootstrap.php"/>
+    <file inRootDir="1" src="src/.debug/preloader.php"/>
+    <file inRootDir="1" src="src/C:/Users/кокина/Downloads/user168.png"/>
+    <file inRootDir="1" src="src/.data/img/user168.png"/>
+    <file inRootDir="1" src="src/.data/img/the-blurred-819387_960_720.jpg"/>
+    <file inRootDir="1" src="C:/Users/кокина/DevelNextProjects/Stylizer/src/.forms/MainForm.fxml"/>
+    <file inRootDir="1" src="src/C:/Users/кокина/Desktop/login24.png"/>
+    <file inRootDir="1" src="src/.data/img/login24.png"/>
+    <file inRootDir="1" src="src/C:/Users/кокина/Desktop/password24.png"/>
+    <file inRootDir="1" src="src/.data/img/password24.png"/>
+    <file inRootDir="1" src="src/.data/img/login242.png"/>
+    <file inRootDir="1" src="vendor/ide.bundle.std.JPHPCoreBundle"/>
+    <file inRootDir="1" src="vendor/ide.bundle.std.JPHPRuntimeBundle"/>
+    <file inRootDir="1" src="vendor/ide.bundle.std.JPHPJsonBundle"/>
+    <file inRootDir="1" src="vendor/ide.bundle.std.JPHPXmlBundle"/>
+    <file inRootDir="1" src="vendor/ide.bundle.std.JPHPGuiDesktopBundle"/>
+    <file inRootDir="1" src="vendor/ide.bundle.std.JPHPDesktopDebugBundle"/>
+    <file generated="1" inRootDir="1" src="src/JPHP-INF/.bootstrap"/>
+    <file generated="1" inRootDir="1" src="src/JPHP-INF/launcher.conf"/>
+    <file inRootDir="1" src="src_generated"/>
+    <file inRootDir="1" src="src/app"/>
+    <file inRootDir="1" src="C:/Users/asp/Desktop/MatDes/materialTs/src/.forms/MainForm.fxml"/>
+    <file inRootDir="1" src=".dn"/>
+    <file inRootDir="1" src=".dn/bundles/ide.bundle.std.JPHPDesktopDebugBundle.conf"/>
+    <file inRootDir="1" src=".dn/bundles/ide.bundle.std.JPHPGuiDesktopBundle.conf"/>
+    <file inRootDir="1" src=".dn/cache/.theme/style-ide.css"/>
+    <file inRootDir="1" src=".dn/ide/editors/FormEditor/src/.forms/MainForm.fxml.conf"/>
+    <file inRootDir="1" src=".dn/ide/editors/ScriptModuleEditor/src/.scripts/AppModule.conf"/>
+    <file inRootDir="1" src=".dn/ide/editors/ScriptModuleEditor/src/.scripts/MainModule.conf"/>
+    <file inRootDir="1" src=".dn/ide/project/behaviours/BundleProjectBehaviour.conf"/>
+    <file inRootDir="1" src=".dn/ide/project/behaviours/PhpProjectBehaviour.conf"/>
+    <file inRootDir="1" src=".dn/ide.lock"/>
+    <file inRootDir="1" src=".dn/index.json"/>
+    <file inRootDir="1" src="materialTs.dnproject"/>
+    <file inRootDir="1" src="Object"/>
+    <file inRootDir="1" src="src/app/forms/MainForm.behaviour"/>
+    <file inRootDir="1" src="src/app/forms/MainForm.php.axml"/>
+    <file inRootDir="1" src="src/app/forms/MainForm.php.source"/>
+    <file inRootDir="1" src="src/app/forms/MainForm.php.sourcemap"/>
+    <file inRootDir="1" src="src/app/modules/AppModule.behaviour"/>
+    <file inRootDir="1" src="src/app/modules/AppModule.json"/>
+    <file inRootDir="1" src="src/app/modules/AppModule.php.axml"/>
+    <file inRootDir="1" src="src/app/modules/AppModule.php.source"/>
+    <file inRootDir="1" src="src/app/modules/AppModule.php.sourcemap"/>
+    <file inRootDir="1" src="src/app/modules/MainModule.behaviour"/>
+    <file inRootDir="1" src="src/app/modules/MainModule.json"/>
+    <file inRootDir="1" src="src/app/modules/MainModule.php.axml"/>
+    <file inRootDir="1" src="src/app/modules/MainModule.php.source"/>
+    <file inRootDir="1" src="src/app/modules/MainModule.php.sourcemap"/>
+    <file inRootDir="1" src="src/.debug"/>
+    <file inRootDir="1" src="build.xml"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/red-wallpaper-15.jpg"/>
+    <file inRootDir="1" src="src/.data/img/red-wallpaper-15.jpg"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/tesgame.png"/>
+    <file inRootDir="1" src="src/.data/img/tesgame.png"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/.cacheignore"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/action/Animation.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/behaviour/custom/BlinkAnimationBehaviour.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/behaviour/custom/DraggingFormBehaviour.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/facade/Json.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/Files.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/AbstractForm.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/AbstractModule.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/AbstractScript.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/ApplicationTrait.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/custom/AbstractBehaviour.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/custom/AnimationBehaviour.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/custom/BehaviourLoader.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/custom/BehaviourManager.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/custom/FormBehaviourManager.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/custom/ModuleBehaviourManager.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/behaviour/ValuableBehaviour.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/DataUtils.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/event/AbstractEventAdapter.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/event/ClickEventAdapter.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/event/MousedownEventAdapter.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/event/MouseupEventAdapter.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/EventBinder.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/framework/ScriptManager.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXFlatButtonWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXHyperlinkWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXImageAreaWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXLabeledWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXLabelExWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXLabelWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/php/gui/UXNodeWrapper.phb"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/script/TimerScript.phb"/>
+    <file inRootDir="1" src=".dn/ide.build.WindowsApplicationBuildType.json"/>
+    <file inRootDir="1" src=".dn/library.conf"/>
+    <file inRootDir="1" src="WindowsClient.dnproject"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/vk.jpg"/>
+    <file inRootDir="1" src="src/.data/img/vk.jpg"/>
+    <file inRootDir="1" src="src/.forms/main.fxml">
+      <links>
+        <link src="src/app/forms/main.php"/>
+        <link src="src/.forms/main.conf"/>
+      </links>
+    </file>
+    <file inRootDir="1" src="src/.forms/main.conf"/>
+    <file inRootDir="1" src="src/app/forms/main.php"/>
+    <file inRootDir="1" src="src/.forms/settings.fxml">
+      <links>
+        <link src="src/app/forms/settings.php"/>
+        <link src="src/.forms/settings.conf"/>
+      </links>
+    </file>
+    <file inRootDir="1" src="src/.forms/settings.conf"/>
+    <file inRootDir="1" src="src/app/forms/settings.php"/>
+    <file inRootDir="1" src="src/.data/img/appbar.close.png"/>
+    <file inRootDir="1" src="src/.data/img/appbar.settings.png"/>
+    <file inRootDir="1" src="src/.data/img/appbar.window.minimize.png"/>
+    <file inRootDir="1" src="src/.data/img/appbar.email.minimal.png"/>
+    <file inRootDir="1" src="src/.data/img/appbar.email.hardedge.png"/>
+    <file inRootDir="1" src="src/.data/img/mail.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/avatar.jpg"/>
+    <file inRootDir="1" src="src/.data/img/avatar.jpg"/>
+    <file inRootDir="1" src=".dn/ide/editors/FormEditor/src/.forms/main.fxml.conf"/>
+    <file inRootDir="1" src=".dn/ide/editors/FormEditor/src/.forms/settings.fxml.conf"/>
+    <file inRootDir="1" src="VKMacaroon.dnproject"/>
+    <file inRootDir="1" src="src/app/forms/main.behaviour"/>
+    <file inRootDir="1" src="src/app/forms/main.php.axml"/>
+    <file inRootDir="1" src="src/app/forms/main.php.source"/>
+    <file inRootDir="1" src="src/app/forms/settings.behaviour"/>
+    <file inRootDir="1" src="src/app/forms/settings.php.axml"/>
+    <file inRootDir="1" src="src/app/forms/settings.php.source"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/white.png"/>
+    <file inRootDir="1" src="src/.data/img/white.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Icons/dark/appbar.control.play.png"/>
+    <file inRootDir="1" src="src/.data/img/appbar.control.play.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Icons/dark/appbar.control.stop.png"/>
+    <file inRootDir="1" src="src/.data/img/appbar.control.stop.png"/>
+    <file inRootDir="1" src="src/.data/img/Russia.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/United-States-of-America.png"/>
+    <file inRootDir="1" src="src/.data/img/United-States-of-America.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/Germany.png"/>
+    <file inRootDir="1" src="src/.data/img/Germany.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/Afghanistan.png"/>
+    <file inRootDir="1" src="src/.data/img/Afghanistan.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/Israel.png"/>
+    <file inRootDir="1" src="src/.data/img/Israel.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/Iraq.png"/>
+    <file inRootDir="1" src="src/.data/img/Iraq.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/United-Kingdom.png"/>
+    <file inRootDir="1" src="src/.data/img/United-Kingdom.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/VKMacaroon/Desktop/Flags/Japan.png"/>
+    <file inRootDir="1" src="src/.data/img/Japan.png"/>
+    <file inRootDir="1" src=".dn/cache/bytecode/timer/AccurateTimer.phb"/>
+    <file inRootDir="1" src="src/app/forms/main.php.sourcemap"/>
+    <file inRootDir="1" src="src/app/forms/settings.php.sourcemap"/>
+    <file inRootDir="1" src="lib"/>
+    <file inRootDir="1" src="src"/>
+    <file inRootDir="1" src="build"/>
+    <file inRootDir="1" src="~project"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/Polygon-Flat-Wallpapers-Backgrounds-HD-22.jpg"/>
+    <file inRootDir="1" src="src/.data/img"/>
+    <file inRootDir="1" src="src/.data/img/Polygon-Flat-Wallpapers-Backgrounds-HD-22.jpg"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/LAypYB.jpg"/>
+    <file inRootDir="1" src="src/.data/img/LAypYB.jpg"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/lightgrey.png"/>
+    <file inRootDir="1" src="src/.data/img/lightgrey.png"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/Polygon-Flat-Wallpapers-Backgrounds-HD-19.jpg"/>
+    <file inRootDir="1" src="src/.data/img/Polygon-Flat-Wallpapers-Backgrounds-HD-19.jpg"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/1111.jpg"/>
+    <file inRootDir="1" src="src/.data/img/1111.jpg"/>
+    <file inRootDir="1" src="src/C:/Users/asp/Desktop/635341972104108241_backgroundjpg.png"/>
+    <file inRootDir="1" src="src/.data/img/635341972104108241_backgroundjpg.png"/>
+    <file inRootDir="1" src="Object"/>
+  </files>
+  <behaviours>
+  <behaviour class="ide\project\behaviours\BundleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\PhpProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GuiFrameworkProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\GradleProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\RunBuildProjectBehaviour"/>
+    <behaviour class="ide\project\behaviours\ShareProjectBehaviour"/>
+  </behaviours>
+</project>

@@ -1,0 +1,20 @@
+<?php
+namespace app\forms;
+
+use php\gui\framework\AbstractForm;
+use php\gui\event\UXMouseEvent; 
+
+
+class main extends AbstractForm
+{
+
+    /**
+     * @event imageAlt.click-Left 
+     */
+    function doImageAltClickLeft(UXMouseEvent $event = null)
+    {    
+        
+    }
+
+
+}

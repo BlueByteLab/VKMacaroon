@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    
+  
+  <method name="doWebaddressMouseDownL">
+      <showPreloader value="" value-type="string"/>
+      <sleep sync="" sync-type="" value="300" value-type="integer"/>
+      <browse url="https://vkmacaroon.ru" url-type="string"/>
+      <hidePreloader/>
+    </method>
+  <method name="doWebaddressMouseDownLeft">
+      <showPreloader value="" value-type="string"/>
+      <sleep sync="" sync-type="" value="300" value-type="integer"/>
+      <browse url="https://vkmacaroon.ru/" url-type="string"/>
+      <sleep sync="" sync-type="" value="300" value-type="integer"/>
+      <hidePreloader/>
+      <elementEnabledOff object="webaddress" object-type="object"/>
+      <sleep sync="" sync-type="" value="12000" value-type="integer"/>
+      <elementEnabledOn object="webaddress" object-type="object"/>
+    </method>
+  <method name="doAuthButtonClick">
+      <elementEnabledOn object="progressBar" object-type="object"/>
+      <elementShow object="progressBar" object-type="object"/>
+      <sleep sync="" sync-type="" value="5000" value-type="integer"/>
+      <loadForm form="main" form-type="form" savePosition="1" savePosition-type="" saveSize="" saveSize-type=""/>
+    </method>
+  </class>
+</root>
